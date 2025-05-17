@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/locket_uploader/static/css/main.37ff2ddf.css",
-    "main.js": "/locket_uploader/static/js/main.cbc2b3fa.js",
+    "main.js": "/locket_uploader/static/js/main.d4c5e0ad.js",
     "index.html": "/locket_uploader/index.html",
     "main.37ff2ddf.css.map": "/locket_uploader/static/css/main.37ff2ddf.css.map",
-    "main.cbc2b3fa.js.map": "/locket_uploader/static/js/main.cbc2b3fa.js.map"
+    "main.d4c5e0ad.js.map": "/locket_uploader/static/js/main.d4c5e0ad.js.map"
   },
   "entrypoints": [
     "static/css/main.37ff2ddf.css",
-    "static/js/main.cbc2b3fa.js"
+    "static/js/main.d4c5e0ad.js"
   ]
 }
